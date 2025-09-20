@@ -57,3 +57,9 @@ button {
     font-family: inherit;
     font-weight: 600;
 }
+
+.footer-credit {
+    position: fixed;   /* sticks it to the viewport */
+    bottom: 10px;      /* distance from bottom */
+    right: 10px;       /* distance from right */
+}
